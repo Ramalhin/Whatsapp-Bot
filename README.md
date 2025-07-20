@@ -4,7 +4,7 @@ Um bot inteligente para WhatsApp que utiliza a API do Google Gemini para respond
 
 ## ⚠️ Aviso Importante
 
-Este bot é destinado apenas para **uso pessoal e educacional**. O uso de bots no WhatsApp pode violar os Termos de Serviço da plataforma. Use com responsabilidade.
+Este bot é destinado apenas para **uso pessoal**. O uso de bots no WhatsApp pode violar os Termos de Serviço da plataforma. Use com responsabilidade. É apenas um meio que facilita a vida, nao precisar baixar um app do gemini no celular, ou ir ao navegador sempre pesquisar por ele etc...
 
 ## 🚀 Funcionalidades
 
@@ -141,10 +141,6 @@ O bot gera logs detalhados para facilitar o debugging:
 3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## ⚠️ Disclaimer
 
