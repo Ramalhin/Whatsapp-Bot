@@ -160,4 +160,4 @@ Se encontrar problemas:
 
 ---
 
-**Desenvolvido com ❤️ para fins educacionais** 
+**Apesar da existência do BOT da Meta, essa ideia veio antes dele existir, porém só foi executada agora...** 
